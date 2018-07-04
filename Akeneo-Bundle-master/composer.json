@@ -2,7 +2,7 @@
     "name":                 "splash/akeneo-bundle",
     "description":          "Splash Bundle for Akeneo PIM Solution",
     "license":              "MIT",
-    "minimum-stability":    "dev",
+    "minimum-stability":    "stable",
     "prefer-stable":        true,
     
     "authors": [
